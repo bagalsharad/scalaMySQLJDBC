@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/scalamysqljdbc_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Employees$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/Employees$.class[0m
+[0m[[0mdebug[0m] [0m	productCloudera.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/productCloudera.class[0m
+[0m[[0mdebug[0m] [0m	CommissionAmount.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/CommissionAmount.class[0m
+[0m[[0mdebug[0m] [0m	CommissionAmount$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/CommissionAmount$.class[0m
+[0m[[0mdebug[0m] [0m	Employees.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/Employees.class[0m
+[0m[[0mdebug[0m] [0m	application.properties[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/application.properties[0m
+[0m[[0mdebug[0m] [0m	Products$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/Products$.class[0m
+[0m[[0mdebug[0m] [0m	Products.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/Products.class[0m
+[0m[[0mdebug[0m] [0m	productCloudera$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/sharadbagal/IdeaProjects/scalaMySQLJDBC/target/scala-2.11/classes/productCloudera$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
